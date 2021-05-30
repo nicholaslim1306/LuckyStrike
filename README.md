@@ -32,7 +32,11 @@ Technical Proof of concept:
 See the file 
 
 **To run the file:**
+
 **1. Download the schema ORBITAL Database.sql**
-2. Open Orbit.py and change the username and password below the first function defined to your individual one
-3. Connect to SQL
-4. Close all files and run interface.py**
+
+**2. Open Orbit.py and change the username and password below the first function defined to your individual one**
+
+**3. Connect to SQL**
+
+**4. Close all files and run interface.py**
