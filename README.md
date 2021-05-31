@@ -8,13 +8,13 @@ User 3: After a long day, I sometimes think of heading down to the arcade to try
 
 Project Idea:
 To provide users a way to play an arcade game remotely on their own computer/laptop.
-Features
-Physical features
+Features:
+Physical features:
 •	Player’s computer which allows player to wirelessly connect to a separate computer running the game. 
 •	The separate computer is connected to the Ev3 brick via Bluetooth to play the arcade game. 
 •	The arcade game is a simple car game that sends a video back to the player’s computer. 
 •	The player would only have one control: to stop the claw at the desired spot.
-Software features
+Software features:
 •	Game contains a log in and registration page.
 •	 A top up credits page used to play the physical claw game (no real monetary top up would be used).
 •	 A record of the prizes won: big and small prize the former being of harder difficulty.
