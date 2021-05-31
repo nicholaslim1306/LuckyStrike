@@ -1,5 +1,3 @@
-#LuckyStrike
-Orbital Gemini
 Problem motivation:
 We realised that a lot of people who wanted to play with claw machines were unable to do so at a given moment, be it lack of transportation, COVID-19 or simply too lazy to leave their house. As a result, we devised an application that was tailored to cater to the spontaneous need to play a claw machine at anytime.
 
